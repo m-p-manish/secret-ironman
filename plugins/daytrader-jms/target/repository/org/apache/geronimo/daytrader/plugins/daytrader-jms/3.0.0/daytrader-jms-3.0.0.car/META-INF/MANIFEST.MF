@@ -6,11 +6,11 @@ Bundle-Version: 3.0.0
 Bundle-Activator: org.apache.geronimo.kernel.osgi.ConfigurationActivat
  or
 Import-Package: org.apache.geronimo.kernel.osgi,org.apache.geronimo.bv
- al,org.osgi.framework,javax.validation,org.apache.geronimo.connector.
- wrapper,org.apache.geronimo.management.geronimo,org.apache.geronimo.g
- bean,org.apache.geronimo.management,org.apache.activemq,javax.resourc
- e.spi,org.apache.geronimo.connector.work,org.apache.geronimo.transact
- ion.manager,javax.transaction,javax.resource.spi.endpoint,javax.trans
+ al,javax.validation,org.osgi.framework,org.apache.geronimo.connector.
+ wrapper,org.apache.geronimo.gbean,org.apache.geronimo.management.gero
+ nimo,org.apache.geronimo.management,org.apache.activemq,javax.resourc
+ e.spi,org.apache.geronimo.connector.work,javax.transaction,org.apache
+ .geronimo.transaction.manager,javax.resource.spi.endpoint,javax.trans
  action.xa,org.apache.geronimo.connector.wrapper.outbound,org.apache.g
  eronimo.kernel,org.apache.geronimo.connector,org.apache.geronimo.conn
  ector.outbound.connectionmanagerconfig,org.apache.geronimo.connector.

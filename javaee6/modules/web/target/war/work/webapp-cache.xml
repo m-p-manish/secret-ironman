@@ -202,7 +202,7 @@
                   <columnNumber>32</columnNumber>
                   <source>
                     <modelId>org.apache.geronimo.daytrader:daytrader-parent:3.0.0</modelId>
-                    <location>/Users/adobe/svn/daytrader-parent-3.0.0/pom.xml</location>
+                    <location>/Users/adobe/svn/daytrader-parent-3.0.0/secret-ironman/pom.xml</location>
                   </source>
                 </org.apache.maven.model.InputLocation>
               </entry>
@@ -443,7 +443,7 @@
               <columnNumber>17</columnNumber>
               <source>
                 <modelId>org.apache.geronimo.daytrader.javaee6:web:3.0.0</modelId>
-                <location>/Users/adobe/svn/daytrader-parent-3.0.0/javaee6/modules/web/pom.xml</location>
+                <location>/Users/adobe/svn/daytrader-parent-3.0.0/secret-ironman/javaee6/modules/web/pom.xml</location>
               </source>
             </org.apache.maven.model.InputLocation>
           </entry>

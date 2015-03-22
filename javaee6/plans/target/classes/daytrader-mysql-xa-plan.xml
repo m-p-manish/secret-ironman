@@ -44,9 +44,9 @@
                 <type>car</type>
             </dependency>
             <dependency>
-                <groupId>default</groupId>
-                <artifactId>com.mysql.jdbc</artifactId>
-                <version>5.1.34</version>
+                <groupId>mysql</groupId>
+                <artifactId>mysql-connector-java</artifactId>
+                <version>5.1.7</version>
                 <type>jar</type>
             </dependency>
         </dependencies>

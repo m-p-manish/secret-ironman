@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <repository name="Daytrader :: Plugins :: Derby DataSource">
-    <resource id="1427015875402" presentationname="org.apache.geronimo.configs.system-database" symbolicname="org.apache.geronimo.configs.system-database" uri="mvn:org.apache.geronimo.configs/system-database/3.0.0/car" version="3.0.0">
+    <resource id="1427046880554" presentationname="org.apache.geronimo.configs.system-database" symbolicname="org.apache.geronimo.configs.system-database" uri="mvn:org.apache.geronimo.configs/system-database/3.0.0/car" version="3.0.0">
         <size>124534</size>
         <capability name="bundle">
             <p n="symbolicname" v="org.apache.geronimo.configs.system-database"/>
