@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<repository name="Daytrader :: Plugins :: Derby DataSource">
+    <resource id="1427015875402" presentationname="org.apache.geronimo.configs.system-database" symbolicname="org.apache.geronimo.configs.system-database" uri="mvn:org.apache.geronimo.configs/system-database/3.0.0/car" version="3.0.0">
+        <size>124534</size>
+        <capability name="bundle">
+            <p n="symbolicname" v="org.apache.geronimo.configs.system-database"/>
+            <p n="version" t="version" v="3.0.0"/>
+            <p n="manifestversion" t="version" v="2"/>
+        </capability>
+        <require extend="false" filter="(&amp;(package=org.apache.geronimo.kernel.osgi)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: org.apache.geronimo.kernel.osgi</require>
+        <require extend="false" filter="(&amp;(package=org.apache.geronimo.derby)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: org.apache.geronimo.derby</require>
+        <require extend="false" filter="(&amp;(package=org.apache.geronimo.gbean)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: org.apache.geronimo.gbean</require>
+        <require extend="false" filter="(&amp;(package=org.apache.geronimo.system.serverinfo)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: org.apache.geronimo.system.serverinfo</require>
+        <require extend="false" filter="(&amp;(package=org.apache.geronimo.bval)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: org.apache.geronimo.bval</require>
+        <require extend="false" filter="(&amp;(package=javax.validation)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: javax.validation</require>
+        <require extend="false" filter="(&amp;(package=org.osgi.framework)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: org.osgi.framework</require>
+        <require extend="false" filter="(&amp;(package=org.apache.geronimo.connector.wrapper)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: org.apache.geronimo.connector.wrapper</require>
+        <require extend="false" filter="(&amp;(package=org.apache.geronimo.management.geronimo)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: org.apache.geronimo.management.geronimo</require>
+        <require extend="false" filter="(&amp;(package=org.apache.geronimo.management)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: org.apache.geronimo.management</require>
+        <require extend="false" filter="(&amp;(package=org.apache.geronimo.system.util)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: org.apache.geronimo.system.util</require>
+        <require extend="false" filter="(&amp;(package=org.apache.geronimo.connector.wrapper.outbound)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: org.apache.geronimo.connector.wrapper.outbound</require>
+        <require extend="false" filter="(&amp;(package=javax.resource.spi)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: javax.resource.spi</require>
+        <require extend="false" filter="(&amp;(package=org.apache.geronimo.kernel)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: org.apache.geronimo.kernel</require>
+        <require extend="false" filter="(&amp;(package=org.apache.geronimo.connector)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: org.apache.geronimo.connector</require>
+        <require extend="false" filter="(&amp;(package=org.apache.geronimo.connector.outbound.connectionmanagerconfig)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: org.apache.geronimo.connector.outbound.connectionmanagerconfig</require>
+        <require extend="false" filter="(&amp;(package=org.apache.geronimo.transaction.manager)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: org.apache.geronimo.transaction.manager</require>
+        <require extend="false" filter="(&amp;(package=org.apache.geronimo.connector.outbound.connectiontracking)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: org.apache.geronimo.connector.outbound.connectiontracking</require>
+        <require extend="false" filter="(&amp;(package=org.apache.geronimo.j2ee.jndi)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: org.apache.geronimo.j2ee.jndi</require>
+        <require extend="false" filter="(&amp;(package=org.apache.geronimo.gjndi)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: org.apache.geronimo.gjndi</require>
+        <require extend="false" filter="(&amp;(package=javax.naming)(version&gt;=0.0.0))" multiple="false" name="package" optional="false">Import-Package: javax.naming</require>
+    </resource>
+</repository>
